@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NikheshKumar
-- 👀 I’m interested in Mathematics - specifically Geometry,Algebraic Geometry and Category theory
+- 👀 I’m interested in Mathematics - specifically Geometry, Algebraic Geometry and Category theory
 - 🌱 I’m currently learning geometry and coding.
 - 💞️ I’m looking to collaborate on computational Algebraic geometry and group theory
 - 📫 How to reach me twitter.com/nikheshkumar1
