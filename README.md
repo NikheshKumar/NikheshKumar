@@ -1,4 +1,4 @@
-Hi, I’m @NikheshKumar. I’m interested in Mathematics - specifically Differential Geometry. Currently learning Fuchsian groups and coding. 
+Hi, I’m @NikheshKumar. Grad student in mathematics from IISc, dabbled in Fuchsian groups. Currently, pursuing Data science and applied machine learning at IIT-M.
 - 📫 How to reach me nikheshk19@gmail.com
 
 <!---
