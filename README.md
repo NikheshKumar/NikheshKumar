@@ -23,9 +23,10 @@ I'm Nikhesh Kumar, Grad student in mathematics from IISc, dabbled in Fuchsian gr
 ## 🌱 I'm currently learning
 - Machine learning
 - Data Analytics
-- NLP techniques
+- NLP
+- CV
 - LLMs
-- Gen AI for healthcare
+- Gen AI 
   
 ---
 
