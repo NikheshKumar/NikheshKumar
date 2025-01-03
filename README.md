@@ -2,7 +2,7 @@
 
 ---
 
-# M Nikhesh Kumar - Data Science / Machine Learning / Artifical Intelligence 👩‍💻📊🤖
+# M Nikhesh Kumar - Data Science / Machine Learning / Artifical Intelligence 👨‍💻📊🤖
 
 ## Hi there 👋
 
@@ -28,8 +28,10 @@ I'm Nikhesh Kumar, Grad student in mathematics from IISc, dabbled in Fuchsian gr
 - Data Analytics
 - NLP
 - CV
-- LLMs
-- Gen AI 
+- LLMs & Gen AI
+- Convex Optimisation
+- Medical Imaging
+
   
 ---
 
