@@ -2,20 +2,23 @@
 
 ---
 
-# M Nikhesh Kumar - Data Science / Machine Learning 👩‍💻📊🤖
+# M Nikhesh Kumar - Data Science / Machine Learning / Artifical Intelligence 👩‍💻📊🤖
 
 ## Hi there 👋
 
-I'm Nikhesh Kumar, Grad student in mathematics from IISc, dabbled in Fuchsian groups. Currently, pursuing Data science and applied machine learning at IIT-M, with a focus on NLP, LLMs, Gen AI. I love working on challenging problems and turning data into actionable insights.
+I'm Nikhesh Kumar, Grad student in mathematics from IISc, dabbled in Fuchsian groups. Currently, pursuing a Joint degree in Data science and AI at IIT-M and University of Birmingham, with a focus on NLP, LLMs, Gen AI. I love working on challenging problems and turning data into actionable insights.
 
 ---
 
 ## 🛠️ Skills and Tools
 
-- **Languages**: Python, C/C++, Matlab, LaTeX
-- **Machine Learning Libraries**: Scikit-learn, TensorFlow, PyTorch
-- **Data Manipulation and Analysis**: Pandas, NumPy, dplyr
-- **Data Visualization**: Matplotlib, Seaborn, ggplot2
+- **Languages**: Python, C/C++, Matlab, LaTeX, Lean. 
+- **Machine Learning Libraries**: Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy, SciPy, Matplotlib, Keras, pydantic, OpenCV.
+- **ML Architectures**: RNN, CNN, YOLO, Transformers(BERT, LSTMs, LLMs, SLMs).
+- **APIs** : BigML, TensorFlow, OpenAI.
+- **Developer Tools**: GitHub, VS Code, PyCharm, Microsoft Azure, Amazon SageMaker Studio, Git, Docker.
+- **Data Manipulation and Analysis**: Pandas, NumPy, dplyr.
+- **Data Visualization**: Matplotlib, Seaborn, ggplot2.
 - **Others**: Git
 
 ---
