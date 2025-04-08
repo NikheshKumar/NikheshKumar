@@ -13,6 +13,8 @@ I bring hands-on expertise in designing and deploying end-to-end ML pipelines, o
 
 With a research-driven mindset and strong engineering skills, I aim to leverage my experience to solve impactful real-world problems at scale. Currently seeking AI/ML opportunities where I can contribute to building responsible, scalable, and high-performance AI systems.
 
+Previously, I was a math major from IISc Bengaluru, with specialisation on Metric, Differential and Hyperbolic geometry. 
+
 - 🎓 Joint Master's in Data Science & AI | IIT Madras & University of Birmingham
 - 🔬 Researcher in CV, Generative AI, LLMs, Machine Learning & Optimization
 - 📧 Contact me [here](mailto:nikheshk19@gmail.com)
