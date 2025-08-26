@@ -13,13 +13,4 @@
 ---
 
 
-
-
-## 📌 Pinned Projects
-- 🔥 [Eye Gaze Behavior with YOLOv8](https://github.com/NikheshKumar/EyeGaze-Analysis)
-- 🤖 [LLM Fairness Study in Healthcare](https://github.com/NikheshKumar/LLM-Healthcare-Fairness)
-
----
----
-
 <p align="center"><b>Always curious | Research-driven | AI for Good |  🔄</b></p>
