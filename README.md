@@ -7,16 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a highly motivated Data Science and Artificial Intelligence graduate student with a strong foundation in Mathematics, Machine Learning, and Deep Learning. My experience spans across Computer Vision, Natural Language Processing, Generative AI, Large Language Models (LLMs), Optimization for ML systems with applications in behavioural sciences, healthcare, ethics in AI, and mathematical modeling.
 
-I bring hands-on expertise in designing and deploying end-to-end ML pipelines, optimizing deep learning models (YOLO, CNNs, RNNs, Transformers), and working with advanced architectures like Grounded-SAM, BERT-based LLMs, and MedBERT for clinical tasks.
-
-With a research-driven mindset and strong engineering skills, I aim to leverage my experience to solve impactful real-world problems at scale. Currently seeking AI/ML opportunities where I can contribute to building responsible, scalable, and high-performance AI systems.
-
-Previously, I was a math major from IISc Bengaluru, with specialisation on Metric, Differential and Hyperbolic geometry. 
-
-- 🎓 Joint Master's in Data Science & AI | IIT Madras & University of Birmingham
-- 🔬 Researcher in CV, Generative AI, LLMs, Machine Learning & Optimization
 - 📧 Contact me [here](mailto:nikheshk19@gmail.com)
 
 ---
@@ -65,16 +56,7 @@ Previously, I was a math major from IISc Bengaluru, with specialisation on Metri
 
 ---
 
-## 💻 **ML Architectures / Specializations**
-- **Deep Learning**: CNNs, RNNs, YOLOv8, Mask R-CNN, Fast R-CNN
-- **Transformers & LLMs**: BERT, LSTMs, GPT-based models, SLMs
-- **Healthcare AI / Medical Imaging / Eye Gaze Tracking**
-- **Generative AI & Prompt Engineering**
-- **Convex Optimization**
-- **Large-Scale ML and Scalable AI Systems**
 
-
----
 
 
 
@@ -87,14 +69,6 @@ Previously, I was a math major from IISc Bengaluru, with specialisation on Metri
 
 ---
 
-## 🌱 I'm currently learning
-- Diffusion transformers (via Ollama, HuggingFace)
-- Vision Language Models, Multimodal LLMs
-- RAG (GraphRAG, Langchain, Llamaindex)
-- Fine tuning (QLoRA, LoRA)
-- Reinforcement Learning and Evolutionary Computing
-- LLM scaling
-- Graph Neural Networks
 
 
 ## 📌 Pinned Projects
@@ -102,19 +76,6 @@ Previously, I was a math major from IISc Bengaluru, with specialisation on Metri
 - 🤖 [LLM Fairness Study in Healthcare](https://github.com/NikheshKumar/LLM-Healthcare-Fairness)
 
 ---
-
-## 🏆 Achievements
-- 🥇 KVPY Fellow - AIR 2 - 2018
-- 🥈 NTSE Scholar - NCERT India - 2016
-- 🏅 Gold Medal - IISc UG Sports (TT, Football, Cricket, Handball)
-
----
-
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-nikhesh-kumar-45317483/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NikheshKumar)
-[![Leetcode](https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nikheshkumar19/)
-
 ---
 
 <p align="center"><b>Always curious | Research-driven | AI for Good |  🔄</b></p>
