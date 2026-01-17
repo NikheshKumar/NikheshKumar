@@ -1,7 +1,7 @@
 # Welcome! I'm Nikhesh Kumar Murali
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning;Optimisation+%7C+&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning;Optimisation+Alignment&center=true&width=500&height=50">
 </p>
 
 ---
